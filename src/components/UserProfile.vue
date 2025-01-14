@@ -69,7 +69,7 @@
             <img src="@/assets/images/youtube.svg" alt="youtube">
             <img src="@/assets/images/email.svg" alt="email">
           </div>
-          <div>
+          <div class="created-date">
             Added on {{ convertTimestampToDate(profileData.profile_created_at) }}
           </div>
         </div>
@@ -181,6 +181,9 @@
 .profile-score {
   padding: 24px;
   grid-area: score;
+}
+.created-date {
+  color: #FFFFFF99;
 }
 
 .profile-engagement {
