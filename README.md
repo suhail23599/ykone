@@ -1,11 +1,13 @@
 # ykone-analytics
 
-## Project setup
+Recommended Node version: 18 and above
+
+## Install dependencies 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run the application
 ```
 npm run serve
 ```
@@ -19,6 +21,7 @@ npm run build
 ```
 npm run lint
 ```
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
