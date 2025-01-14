@@ -1,11 +1,11 @@
 # ykone-analytics
 
-## Project setup
+## Install dependencies 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run the application
 ```
 npm run serve
 ```
