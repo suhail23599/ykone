@@ -152,7 +152,7 @@
   height: 100%;
 }
 .profile-bio {
-  padding: 30px;
+  padding: 24px;
   grid-area: bio;
 }
 .profile-bio__header {
@@ -179,7 +179,7 @@
   text-transform: uppercase;
 }
 .profile-score {
-  padding: 30px;
+  padding: 24px;
   grid-area: score;
 }
 
